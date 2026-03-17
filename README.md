@@ -4,13 +4,13 @@ Glaze is a full-stack application that enables semantic search over Google Drive
 
 ## Features
 
-- 🔐 Google OAuth 2.0 authentication
-- 📁 Automatic indexing of Google Drive files (PDF, DOCX, TXT, PPT)
-- 🤖 AI-powered embeddings using Google Gemini
-- 🔍 Semantic search with natural language queries
-- 🚀 Fast vector similarity search with Qdrant
-- 🎨 Clean Chrome Extension UI
-- ⚡ Incremental indexing (only processes new/modified files)
+- Google OAuth 2.0 authentication
+- Automatic indexing of Google Drive files (PDF, DOCX, TXT, PPT)
+- AI-powered embeddings using Google Gemini
+- Semantic search with natural language queries
+- Fast vector similarity search with Qdrant
+- Clean Chrome Extension UI
+- Incremental indexing (only processes new/modified files)
 
 ## Architecture
 
